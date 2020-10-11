@@ -1,5 +1,5 @@
 # BG3-auto-quicksaver
-Baldur's Gate III Auto-quicksaver (for Autohotkeys, but release is standalone [`.exe`](https://github.com/DaanBroekhof/BG3-auto-quicksaver/releases/latest)
+Baldur's Gate III Auto-quicksaver (for Autohotkeys, but release is a standalone [`.exe`](https://github.com/DaanBroekhof/BG3-auto-quicksaver/releases/latest) you can run).
 
 Essentially, it will press 'F5' every X minutes, only when Baldur's Gate III window is active.
 
