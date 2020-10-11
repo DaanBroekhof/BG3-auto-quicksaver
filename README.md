@@ -9,3 +9,7 @@ Essentially, it will press 'F5' every X minutes, only when Baldur's Gate III win
 2. Put in nr of minutes
 3. Start/stop with CTRL+SHIFT+F5
 4. Kill totally via taskbar icon
+
+## Demo
+
+![Image of Prompt](bg3-auto-quicksaver-prompt.png)
